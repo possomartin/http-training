@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Training app for HTTP Crash Course",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possomartin/http-training.git"
+  },
+  "author": "Martin Posso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/possomartin/http-training/issues"
+  },
+  "homepage": "https://github.com/possomartin/http-training#readme"
+}
